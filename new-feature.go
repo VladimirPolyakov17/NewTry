@@ -1,0 +1,2 @@
+some content
+newcontentfromgitkraken2
