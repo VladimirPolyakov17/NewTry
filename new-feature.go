@@ -1,2 +1,2 @@
 some content
-newcontentfromgitkraken2
+newcontentfromgitkraken2vs2
